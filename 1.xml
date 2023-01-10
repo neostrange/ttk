@@ -3,7 +3,7 @@
 <metadata>
   <dct value="20070810"/>
   <processing_steps>
-    <processing_step  ttk_version="3.0.1" git_commit="41b7779" timestamp="20221124-161229" components="PREPROCESSOR,GUTIME,EVITA,SLINKET,S2T,BLINKER,CLASSIFIER"/>
+    <processing_step  ttk_version="3.0.1" git_commit="a1c8fc8" timestamp="20230107-143218" components="PREPROCESSOR,GUTIME,EVITA,SLINKET,S2T,BLINKER,CLASSIFIER"/>
   </processing_steps>
 </metadata>
 <source_tags>
